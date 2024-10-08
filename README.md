@@ -1,21 +1,25 @@
-# CP dataset: Cooperative Perception Dataset in Adverse Weather
+# CP dataset
 [![website](https://img.shields.io/badge/Website-Explore%20Now-blueviolet?style=flat&logo=google-chrome)](https://catslab.engr.wisc.edu/)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://catslab.engr.wisc.edu/)
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://catslab.engr.wisc.edu/)
 
 Supported by the [University of Wisconisn Madison CATS Lab](https://catslab.engr.wisc.edu/).
-
-
-demo data can be provided as the following: 
+The data collection equipments of CATS Lab are as follow:
 <p align="center">
-<img src="imgs/scene.png" width="600" alt="" class="img-responsive">
+<img src="img/equip.jpeg" width="600" alt="" class="img-responsive">
+</p>
+
+Demo data can be provided as the following: 
+<p align="center">
+<img src="img/data.jpeg" width="600" alt="" class="img-responsive">
 </p>
 
 
 ## Overview
-- [CP dataset: Cooperative Perception Dataset in Adverse Weather](#cp-dataset-cooperative-perception-dataset-in-adverse-weather)
+- [CP dataset](#cp-dataset)
   - [Overview](#overview)
   - [CodeBase Features](#codebase-features)
+  - [Data Collection Pipeline](#data-collection-pipeline)
   - [Data Download](#data-download)
   - [Changelog](#changelog)
   - [Devkit setup](#devkit-setup)
@@ -24,9 +28,6 @@ demo data can be provided as the following:
       - [3. Install other dependencies](#3-install-other-dependencies)
   - [Quick Start](#quick-start)
     - [Data sequence visualization](#data-sequence-visualization)
-    - [Train your model](#train-your-model)
-    - [Test the model](#test-the-model)
-  - [Benchmark](#benchmark)
   - [Citation](#citation)
   - [Acknowledgment](#acknowledgment)
 
@@ -45,6 +46,8 @@ demo data can be provided as the following:
 - SOTA model supported
     - [x] ...
     - [ ] Prof.Yu's work can be added to this dataset framework
+## Data Collection Pipeline
+To be added
 
 ## Data Download
 Please check our [website](https://catslab.engr.wisc.edu/) to download the data.
@@ -84,22 +87,13 @@ python setup.py develop
 ### Data sequence visualization
 
 
-### Train your model
-
-
-
-
-### Test the model
-
-
-## Benchmark
-
 
 ## Citation
 ```shell
 @inproceedings{CP,
-  title={CP: Cooperative Perception Dataset in Adverse Weather},
-  author={Xiaopeng Li, Chengyuan Ma, Hangyu Li, Jiaxi Liu, Bofeng Cao},
+  title={CP},
+  author={Xiaopeng Li},
+  booktitle={The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)},
   year={2024}
 }
 ```
