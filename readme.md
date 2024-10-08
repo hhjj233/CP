@@ -24,9 +24,6 @@ demo data can be provided as the following:
       - [3. Install other dependencies](#3-install-other-dependencies)
   - [Quick Start](#quick-start)
     - [Data sequence visualization](#data-sequence-visualization)
-    - [Train your model](#train-your-model)
-    - [Test the model](#test-the-model)
-  - [Benchmark](#benchmark)
   - [Citation](#citation)
   - [Acknowledgment](#acknowledgment)
 
@@ -83,16 +80,6 @@ python setup.py develop
 ## Quick Start
 ### Data sequence visualization
 
-
-### Train your model
-
-
-
-
-### Test the model
-
-
-## Benchmark
 
 
 ## Citation
