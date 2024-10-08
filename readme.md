@@ -4,11 +4,14 @@
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://catslab.engr.wisc.edu/)
 
 Supported by the [University of Wisconisn Madison CATS Lab](https://catslab.engr.wisc.edu/).
-
-
-demo data can be provided as the following: 
+The data collection equipments of CATS Lab are as follow:
 <p align="center">
-<img src="imgs/scene.png" width="600" alt="" class="img-responsive">
+<img src="img/equip.jpeg" width="600" alt="" class="img-responsive">
+</p>
+
+Demo data can be provided as the following: 
+<p align="center">
+<img src="img/data.jpeg" width="600" alt="" class="img-responsive">
 </p>
 
 
@@ -16,6 +19,7 @@ demo data can be provided as the following:
 - [CP dataset](#cp-dataset)
   - [Overview](#overview)
   - [CodeBase Features](#codebase-features)
+  - [Data Collection Pipeline](#data-collection-pipeline)
   - [Data Download](#data-download)
   - [Changelog](#changelog)
   - [Devkit setup](#devkit-setup)
@@ -42,6 +46,8 @@ demo data can be provided as the following:
 - SOTA model supported
     - [x] ...
     - [ ] Prof.Yu's work can be added to this dataset framework
+## Data Collection Pipeline
+To be added
 
 ## Data Download
 Please check our [website](https://catslab.engr.wisc.edu/) to download the data.
