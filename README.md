@@ -1,4 +1,4 @@
-# CP dataset
+# CP dataset: Cooperative Perception Dataset in Adverse Weather
 [![website](https://img.shields.io/badge/Website-Explore%20Now-blueviolet?style=flat&logo=google-chrome)](https://catslab.engr.wisc.edu/)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://catslab.engr.wisc.edu/)
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://catslab.engr.wisc.edu/)
@@ -13,7 +13,7 @@ demo data can be provided as the following:
 
 
 ## Overview
-- [CP dataset](#cp-dataset)
+- [CP dataset: Cooperative Perception Dataset in Adverse Weather](#cp-dataset-cooperative-perception-dataset-in-adverse-weather)
   - [Overview](#overview)
   - [CodeBase Features](#codebase-features)
   - [Data Download](#data-download)
@@ -98,9 +98,8 @@ python setup.py develop
 ## Citation
 ```shell
 @inproceedings{CP,
-  title={CP},
-  author={Xiaopeng Li},
-  booktitle={The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)},
+  title={CP: Cooperative Perception Dataset in Adverse Weather},
+  author={Xiaopeng Li, Chengyuan Ma, Hangyu Li, Jiaxi Liu, Bofeng Cao},
   year={2024}
 }
 ```
